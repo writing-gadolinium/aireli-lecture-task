@@ -2,9 +2,19 @@
 
 This repository contains the *AIRELI* task for the Software Engineering lecture. Follow the setup below to get started.
 
-## Setup
+## Before you start
 
-Note: You will need to use a Github account to use Github Codespaces for the setup. Github Codespaces provide a free monthly allowance of 120 compute hours for basic and 180 hours for Pro accounts (get your free Github Pro account [here](https://education.github.com/pack) if you have not done so yet).
+Important notes before you start:
+
+- You will need to use a Github account to use Github Codespaces for the setup. Github Codespaces provide a free monthly allowance of 120 compute hours for basic and 180 hours for Pro accounts (get your free Github Pro account [here](https://education.github.com/pack) if you have not done so yet).
+- You will work on a task for **up to 1.5h or less if you finish earlier**.
+- You will submit:
+  - Questionnaire after working on the task
+  - The repository you worked on
+  - Screen recording: **Make sure to record your screen for the entire time you work on the task. Do not use a secondary screen (i.e. all actions have to be visible in the screen recording)**
+
+
+## Setup
 
 1. Click on "Code" > "Codespaces" > "+"
 
