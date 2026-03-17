@@ -9,7 +9,7 @@ const router = express.Router();
 
 router.get('/products', getProducts);
 router.get('/categories', getCategories);
-router.get('/register', getCategories);
+router.get('/register', registerUser);
 
 // please disregard the lines below
 router.get('/', (req, res) => { return res.json({ message: 'Hello World' }); });
