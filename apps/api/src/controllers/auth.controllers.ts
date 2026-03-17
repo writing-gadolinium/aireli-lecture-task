@@ -12,5 +12,7 @@ export const registerUser = async (req: Request, res: Response): Promise<void> =
   };
 
   // please finish this function
+  const user = await createUser(newUser);
+  if (user) { res.json({ user }); } else { res.status(500).json({ message: 'Failed to create user' });}
 
 };
